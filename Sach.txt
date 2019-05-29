@@ -1,0 +1,10 @@
+9
+9G,Hoa - 1A,Le Hoai Thuong, Su pham HN,30000,120,2012,28-5-2019,0
+3C,Dia - 1A,Duong Trieu Loc, Su pham HN,30000,120,2012,28-5-2019,0
+9F,Van - 1A,Cao Tu Nhu, Su pham HN,30000,124,2012,28-5-2019,12
+5T,Anh - 1A,Phan Kim Thai, Su pham HN,30000,121,2012,28-5-2019,3
+4AT,Sinh - 1A,Nguyen Hoai Bao, Su pham HN,30000,110,2012,28-5-2019,0
+2T,Su - 1A,Nguyen Minh Vu, Su pham HN,30000,130,2012,28-5-2019,8
+8C,Cong nghe - 1A,Cao Nhu, Su pham HN,30000,120,2012,28-5-2019,0
+10G,Sinh - 12C,Duong Trieu Loc,Kim Dong,32000,120,2014,29-5-2019,10
+5F,HoaNC,Minh Hao,HN,35000,120,2000,29-5-2019,11
